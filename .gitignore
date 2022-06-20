@@ -7,3 +7,4 @@ flask_session/
 *.db
 testing/
 *.DS_Store
+migrations/
